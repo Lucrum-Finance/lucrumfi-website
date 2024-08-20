@@ -1,0 +1,30 @@
+############# English navigation ##############
+
+# main menu
+
+
+# footer menu
+[[footer]]
+name = "Docs"
+pageRef = "#"
+weight = 1
+
+[[footer]]
+name = "Authors"
+pageRef = "/authors"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+pageRef = "/pages/privacy-policy"
+weight = 3
+
+[[footer]]
+name = "Blog"
+pageRef = "/blog"
+weight = 4
+
+[[footer]]
+name = "Contact"
+pageRef = "/contact"
+weight = 5
