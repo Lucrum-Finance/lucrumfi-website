@@ -1,7 +1,7 @@
 ---
 title: Gusto Mekk
 email: gusto@megusto.com
-image: "/images/gusto.png"
+image: "/images/avatar.png"
 description: this is meta description
 social:
   - name: github

@@ -1,7 +1,7 @@
 ---
 title: Alexey Prishwin
 email: a137x@proton.me
-image: "/images/prishwin.png"
+image: "/images/avatar.png"
 description: this is meta description
 social:
   - name: github
